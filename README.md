@@ -21,4 +21,4 @@ All values are integers:
 Run with:
 `docker run -e SEED=$SEED-it -e WORLDSIZE=$WORLDSIZE -e NBCONTROLS=$NBCONTROLS -e QUESTLENGTH=$QUESTLENGTH --rm berndverst/mstextworld`
 
-![TextWorld Image](textworldimage.png)
+![TextWorld Image](https://github.com/berndverst/mstextworld/raw/master/textworldimage.png)
